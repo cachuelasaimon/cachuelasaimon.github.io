@@ -21,15 +21,12 @@
     <div id= "jumbotron">
         <div class="dark-overlay">
         <!-- Navbar -->
-            <nav class="navigation fixed-top">
+            <nav class="navigation">
                 <div class="case mx-5">
                     <a href="#" class="brand"><span class="logo-design">&lt;/</span>clsn<span class="logo-design">&gt;</span></a> 
 
                    
-                       <ul class="nav">
-                           <li class="navitem"><a href="#" class="navlink ml-5">About</a></li>
-                           <li class="navitem"><a href="#" class="navlink ml-5">Contact</a></li>
-                       </ul>
+                      
                    
                 </div>
             </nav>
